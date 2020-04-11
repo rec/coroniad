@@ -8,7 +8,7 @@
 
 ---------------------
 
-The virus knocked all my conceipts and conceptions into a cocked hat, so I had a lot of spare time
+The virus knocked all my conceits and conceptions into a cocked hat, so I had a lot of spare time
 on my hands.
 
 I love building tools, and I always have a lot of little tools just lying around 
