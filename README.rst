@@ -3,8 +3,9 @@
 
 .. image:: https://raw.githubusercontent.com/ManiacalLabs/DocsFiles/master/BiblioPixel/README.gif
    :target: https://raw.githubusercontent.com/ManiacalLabs/DocsFiles/master/BiblioPixel/README.gif
-   :alt: Result
+   :alt: The Coroniad
    :align: center
+   :scale: 50%
 
 The virus knocked all my conceipts and conceptions into a cocked hat, so I had a lot of spare time
 on my hands.
