@@ -1,6 +1,11 @@
 👑 The Coroniad: tiny useful elegant programmer tools 👑
 ----------------------------------------------------------------
 
+.. image:: https://raw.githubusercontent.com/ManiacalLabs/DocsFiles/master/BiblioPixel/README.gif
+   :target: https://raw.githubusercontent.com/ManiacalLabs/DocsFiles/master/BiblioPixel/README.gif
+   :alt: Result
+   :align: center
+
 The virus knocked all my conceipts and conceptions into a cocked hat, so I had a lot of spare time
 on my hands.
 
@@ -10,6 +15,7 @@ and polish them until they were Practically Perfect™, then unleash them upon a
 a new article once a week, and continue until we are all clear, or until I run out of tools to polish.
 
 12 April, 2020: ``safer``: ✏️ a safer file writer ✏️
+====================================================
 
 Broken files a thing of the past!, with ``safer``, a single file Python library.
 
