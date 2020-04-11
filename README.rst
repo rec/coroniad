@@ -3,23 +3,27 @@
 
 -------------------
    
-.. image:: https://raw.githubusercontent.com/ManiacalLabs/DocsFiles/master/BiblioPixel/README.gif
+.. image:: https://raw.githubusercontent.com/ManiacalLabs/DocsFiles/master/BiblioPixel/doc/tutorial/getting-started/animated-gifs-footer.gif
    :alt: The Coroniad
    :align: center
    :scale: 50%
 
----------------------
+---------------------------------------
 
-The virus knocked all my conceipts and conceptions into a cocked hat, so I had a lot of spare time
-on my hands.
+Tiny tools to tantalize and amuse, a new one each week of isolation.
 
-I love building tools, and I always have a lot of little tools just lying around 
-(https://github.com/rec?tab=repositories), so I decided to extract the most useful and interesting parts
-and polish them until they were Practically Perfect™, then unleash them upon an unsuspecting public with 
-a new article once a week, and continue until we are all clear, or until I run out of tools to polish.
+`(What) <What.rst>`_.
+
+----------------------------------------------------
 
 12 April, 2020: ``safer``: ✏️ a safer file writer ✏️
 ====================================================
 
-Broken files a thing of the past!, with ``safer``, a single file Python library.
 
+.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Caran_d%27Ache_Farbstifte.JPG/320px-Caran_d%27Ache_Farbstifte.JPG
+   :alt: A dozen pencils in a full spectrum of colors
+   :align: center
+   :scale: 50%
+
+
+Broken files a thing of the past!, with ``safer``, a single file library for Python 2.7 through 3.8+.
