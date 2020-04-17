@@ -1,8 +1,8 @@
-👑 The Coroniad: tiny useful elegant programmer tools 👑
+👑 the Coroniad: tiny useful elegant programmer tools 👑
 ----------------------------------------------------------------
 
 -------------------
-   
+
 .. image:: https://raw.githubusercontent.com/ManiacalLabs/DocsFiles/master/BiblioPixel/doc/tutorial/getting-started/animated-gifs-footer.gif
    :alt: The Coroniad
    :align: center
@@ -10,13 +10,13 @@
 
 ---------------------------------------
 
-Tiny tools to tantalize and amuse, a new one each week of isolation.
+Tiny tools to tantalize and amuse, a new one each week
 
 `(What) <What.rst>`_.
 
 ----------------------------------------------------
 
-12 April, 2020: ``safer``: ✏️ a safer file writer ✏️
+(upcoming) 19 April, 2020: ``safer``: ✏️a safer file writer ✏️
 ====================================================
 
 
