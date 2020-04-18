@@ -1,4 +1,4 @@
-👑 the Coroniad: tiny useful elegant programmer tools 👑
+👑 The Coroniad: tiny useful elegant programmer tools 👑
 ----------------------------------------------------------------
 
 -------------------
@@ -12,11 +12,11 @@
 
 Tiny tools to tantalize and amuse, a new one each week
 
-`(What) <What.rst>`_.
+`(More info) <https://medium.com/@TomSwirly/the-coroniad-8b7f7c0c82f4>`_
 
 ----------------------------------------------------
 
-(upcoming) 19 April, 2020: ``safer``: ✏️a safer file writer ✏️
+1 -  ``safer``: `✏️a safer file writer ✏ <https://medium.com/@TomSwirly/%EF%B8%8F-safer-a-safer-file-writer-%EF%B8%8F-5fe267dbe3f5>`_
 ====================================================
 
 
@@ -24,6 +24,26 @@ Tiny tools to tantalize and amuse, a new one each week
    :alt: A dozen pencils in a full spectrum of colors
    :align: center
    :scale: 50%
+   :target: https://medium.com/@TomSwirly/%EF%B8%8F-safer-a-safer-file-writer-%EF%B8%8F-5fe267dbe3f5
+
+https://github.com/rec/safer/
+
+Broken files a thing of the past!, with ``safer``, a single file library
+for Python 2.7 through 3.8+.
+
+Install with ``pip install safer``.
+
+Medium article is `here <https://medium.com/@TomSwirly/%EF%B8%8F-safer-a-safer-file-writer-%EF%B8%8F-5fe267dbe3f5>`_.
+
+----------------------
 
 
-Broken files a thing of the past!, with ``safer``, a single file library for Python 2.7 through 3.8+.
+2 - ``subprocessor``: ⛏️subprocesses for subhumanses  ⛏
+=============================================================
+
+*(coming 26 April, 2020)*
+
+.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Blade%2C_pick_axe_%28AM_650876-1%29.jpg/320px-Blade%2C_pick_axe_%28AM_650876-1%29.jpg
+   :alt: An old rusty head of a pick
+   :align: center
+   :scale: 50%
