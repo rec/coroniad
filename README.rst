@@ -16,6 +16,28 @@ Tiny tools to tantalize and amuse, a new one each week
 
 ----------------------------------------------------
 
+2 - ``sproc``: ⛏️subprocesses for subhumanses  ⛏
+=============================================================
+
+.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Blade%2C_pick_axe_%28AM_650876-1%29.jpg/320px-Blade%2C_pick_axe_%28AM_650876-1%29.jpg
+   :alt: An old rusty head of a pick
+   :align: center
+   :scale: 50%
+   :target:
+      https://medium.com/@TomSwirly/%EF%B8%8F-sproc-subprocesseses-for-subhumanses-dbee42f22af5
+
+https://github.com/rec/sproc
+
+Subprocesses made simples, for Python 3.5 through 3.8+.
+
+
+Install with ``pip install sproc``.
+
+Medium article is `here <https://medium.com/@TomSwirly/%EF%B8%8F-sproc-subprocesseses-for-subhumanses-dbee42f22af5>`_.
+
+----------------------
+
+
 1 -  ``safer``: `✏️a safer file writer ✏ <https://medium.com/@TomSwirly/%EF%B8%8F-safer-a-safer-file-writer-%EF%B8%8F-5fe267dbe3f5>`_
 ====================================================
 
@@ -36,14 +58,3 @@ Install with ``pip install safer``.
 Medium article is `here <https://medium.com/@TomSwirly/%EF%B8%8F-safer-a-safer-file-writer-%EF%B8%8F-5fe267dbe3f5>`_.
 
 ----------------------
-
-
-2 - ``subprocessor``: ⛏️subprocesses for subhumanses  ⛏
-=============================================================
-
-*(coming 26 April, 2020)*
-
-.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Blade%2C_pick_axe_%28AM_650876-1%29.jpg/320px-Blade%2C_pick_axe_%28AM_650876-1%29.jpg
-   :alt: An old rusty head of a pick
-   :align: center
-   :scale: 50%
