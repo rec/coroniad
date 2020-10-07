@@ -1,0 +1,98 @@
+Needs doks:
+
+* versy
+* wolk
+* impall
+* simp
+* doks
+
+Needs fixes from doks
+
+* xmod
+* dek
+* editor
+* tdir
+
+
+doks
+* Fix wrong name for xmod'ed classes
+* Get rid of extraneous methods
+* Solution for command line utilities
+* Get shields out of the RST/Add shields automatically
+
+Add shields everywhere
+* See why that one shield is missing in safer!
+* more shields
+.. image:: https://img.shields.io/pypi/v/taste.svg
+        :target: https://pypi.python.org/pypi/taste
+
+.. image:: https://img.shields.io/travis/rec/taste.svg
+        :target: https://travis-ci.com/rec/taste
+
+.. image:: https://readthedocs.org/projects/taste/badge/?version=latest
+        :target: https://taste.readthedocs.io/en/latest/?badge=latest
+        :alt: Documentation Status
+
+
+.. image:: https://pyup.io/repos/github/rec/taste/shield.svg
+     :target: https://pyup.io/repos/github/rec/taste/
+     :alt: Updates
+
+
+Finished and released
+
+* safer
+* xmod
+
+
+* dek
+* xmod
+* tdir
+* versy
+* wolk
+
+* editor
+* simp
+* doks
+* impall
+
+In-flight
+
+* scripta
+* backer
+* cfgs
+* nc
+* gitz
+
+Papers:
+
+In-flight
+
+0. Calling things on themselves (clod, dek)
+2. Decorators (dek)
+
+Planned
+
+
+1. Practically perfect programming
+
+  * .1, .2, .3, ...
+3. Ever wanted to call a module? (clod)
+4. Safer 4 and context managers (safer)
+5. When is a decorator a context manager? (tdir)
+6. Making movies (scripta)
+7. The smoke test (impall)
+8. A better os.walk (wolk)
+9. Automate the boring parts (versy)
+10. A tiny utility for the compulsively neat (simp)
+11. Simple documentation for simple programs (doks)
+12. nc - named colors
+
+
+
+
+(? sproc 2 - a better subprocess caller now I understand it?)
+
+ppp
+myers *
+(12. A better diff (myers - check to see it's better than difflib))
