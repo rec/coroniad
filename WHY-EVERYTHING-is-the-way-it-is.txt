@@ -62,14 +62,113 @@ about the age of ten, I stole a drink from a shop".
 So I write these articles in E-prime.  Please correct any errors which will
 undoubtedly creep in.
 
-
-Part one: how humans are put together.
-
+Part one: a deconstruction of humans.
 
 
-* The ego: individualism, the selection effect and the anthropic principle
+* The ego
 
-* Time, space and scale: hyperbolic discounting and hyperobjects
+The probability that only humans ever read this article nears 100%.
+
+Plenty of computer programs will process this text, but a consciousness actually
+reading and comprehending this has a near certainty of being human.
+
+You reading this paper from existing "inside" a human being and "looking out" at
+the universe, which contains these words you currently readi.
+
+(The quotes mean uncertainty exists as to whether "you" exist separately inside
+the human being that reads this!  We call this idea, "Cartesian duality",
+which means that "you" "are" "in" "the human", named after Rene Descarte, the
+first in Western philosophy to discuss this, but this matter isn't important to
+the whole argument.)
+
+Whether or you believe in the soul, it is both intuitively obvio
+
+The tininess of an individual human in the entire scale of things cannot be
+understood by that human (Douglas Adams, RIP).
+
+The Earth weighs roughly 6 sextillion tons.  My entire life has run in
+close communion with numbers and I can manipulate such gargantuan figures with
+ease, and tell you that if evenly shared, you would get one quarter quadrillion
+tons, more or less 3 trillion times your weight in mostly rock in some form or
+another, but that has no actual meaning to me beyond the arithmetic.
+
+And the Earth appears as a tiny speck in the universe.  You can span the all the
+scales in the universe in four really huge jumps of very, very, roughly the same
+size:
+
+  from an atom to a dust mote
+  from a dust mote to the Earth
+  from the Earth to the Milky Way galaxy
+  from the galaxy to the universe
+
+and the size of a human falls somewhere between a dust mote and the entire
+Earth in that list.
+
+The impossibility of correctly handling the scales that exist in the universe
+leads to a various sorts of cognitive errors - a fancy world for "common
+mistake" -- on the part of human beings; the first part of this series dedicates
+itself to describing them.
+
+
+* Timescales and risk: Risk, hyperbolic discounting and hyperobjects
+
+Humans constantly play a sort of game with the universe where they attempt to
+maximume their "profits" and minimize their "losses" where dying stands close to
+the top of the scale of loss.
+
+This works because humans possess a truly magnificent computational engine which
+can solve amazingly hard problems almost instantaneously.
+
+A famous Internet video from a surveillance camera show a man almost hit by an
+out-of-control car.  He walks, he sees the car, he pauses for perhaps half a
+second, then jumps out of the way in precisely the right direction, the car
+rushes past him and collides with a store, causing major havoc (luckily we see
+no humans get injured) and our hero brushes himself then trots over to see if he
+can help.
+
+An amazing display of planning, agility and coordination, this little
+performance lasted for a very short amount of time with a completely unprepared
+human, but with flawless results.
+
+I personally have experienced several scrapes, at least one as bad as this one,
+and just did the right thing "without thinking".
+
+I should already have reminded you that the set of animals includes all a human
+beings.  We belong to the genus homo sapiens, "wise man" -- I would prefer "homo
+callidus", "clever man", but we must use the standard terms.
+
+Your average ape, monkey, or even a dog, a cat, a goat or a fox or birds or a
+huge number of creatures would do very well in similar scenario of "dodge the
+suddenly danger".  Look at the difficulties a human faces in catching a
+seeningly primitive mosquito.
+
+The Theory of Evolution provide a very good explanation as to why we have all
+these amazing capabilities.
+
+Very simple, boring life originated on the Earth billions of years ago. All
+the complexity we see now appeared gradually through a process named Natural
+Selection, first fully described by Charles Darwin around XXXX.
+
+Variations naturally occur within any species of living creatures, for reasons
+such as copying errors in their DNA.
+
+Some variations within a species survive better or reproduce better, and we call
+this "fitness"; fitter variations naturally dominate the species over
+generations because they do not get killed, or they have more children, or both.
+
+Gradual improvements in fitness over the aeons, coupled with the tremendous
+diversity of environments on Earth and the free availability of energy and
+elements like carbon, oxygen, hydrogen and a host of trace elements in
+accessible forms, led to whales, mushrooms, beetles, archaebacteria, the
+platypus and h. sapiens - us.
+
+The ability to react to the outside world appeared fairly late - natural
+selection led creatures to eat other creatures and avoid being eaten.
+
+Human consciousness can be described
+
+
+
 
 * Game theory, the prisoner's dilemma and cheats, Kant's categorical imperative
 
@@ -78,6 +177,9 @@ Part one: how humans are put together.
 * Gods, personalization and mirror neurons - how to summon the Holy Guardian Angel
 
 * Summary
+
+
+: individualism, the selection effect and the anthropic principle
 
 
 Part two: what has gone wrong?
