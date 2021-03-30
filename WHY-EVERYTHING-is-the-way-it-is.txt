@@ -69,19 +69,19 @@ Part one: a deconstruction of humans.
 
 The probability that only humans ever read this article nears 100%.
 
-Plenty of computer programs will process this text, but a consciousness actually
-reading and comprehending this has a near certainty of being human.
+Plenty of computer programs will process this text, but almost certainly only
+consciousnesses will actually read and comprehend it.
 
-You reading this paper from existing "inside" a human being and "looking out" at
-the universe, which contains these words you currently readi.
+"You" read these existing "inside" a human being and "looking out" at the
+universe, which contains these words you currently read.
 
-(The quotes mean uncertainty exists as to whether "you" exist separately inside
-the human being that reads this!  We call this idea, "Cartesian duality",
-which means that "you" "are" "in" "the human", named after Rene Descarte, the
-first in Western philosophy to discuss this, but this matter isn't important to
-the whole argument.)
+The scare-quotes are because this sentence assumes that "you" exist separately
+from the homo sapiens that reads this!  They call this idea, "Cartesian
+dualism", awhich means "you" "are" "in" "the human" (name from Rene Descarte,
+the first in Western philosophy to discuss this).
 
-Whether or you believe in the soul, it is both intuitively obvio
+Dualist or not, whether or not you believe in the soul, the body and its senory
+organs determine what each person sees, an incredibly personal
 
 The tininess of an individual human in the entire scale of things cannot be
 understood by that human (Douglas Adams, RIP).
@@ -112,9 +112,10 @@ itself to describing them.
 
 * Timescales and risk: Risk, hyperbolic discounting and hyperobjects
 
-Humans constantly play a sort of game with the universe where they attempt to
-maximume their "profits" and minimize their "losses" where dying stands close to
-the top of the scale of loss.
+Humans constantly play a lively, deadly game with the universe where they
+attempt to maximume their "profits" and minimize their "losses" - dying
+stands close to the top of the scale of loss, and "thriving" at the scale of
+profit.
 
 This works because humans possess a truly magnificent computational engine which
 can solve amazingly hard problems almost instantaneously.
@@ -181,6 +182,8 @@ Human consciousness can be described
 
 : individualism, the selection effect and the anthropic principle
 
+Guided Apophenia
+https://www.thestreet.com/phildavis/news/a-game-designers-analysis-of-qanon?fbclid=IwAR0fciNqxRHEE2dloXaF4491FmZGigtb6hznIRmLYkuJcwOLUJVZ89tPCVc
 
 Part two: what has gone wrong?
 ------------------------------------
@@ -189,6 +192,8 @@ Part two: what has gone wrong?
 
 * Industrial capitalism is constantly revolting and consumerism is its profhit.
   Free markets are not free because they are built on a tissue of lies
+
+* Psychopaths and the dark triad https://en.wikipedia.org/wiki/Dark_triad
 
 * Idiomania and the fountain of filth
 
@@ -210,6 +215,16 @@ Part three: how could it be fixed?
 * We take over
 
 * Who are We and how do We make decisions?
+
+
+Snippet.
+
+Nah, social media is a exploit of the part of the human "operating system" that deals with novelty.
+
+Before "civilization", and even before humans existed, "novelty" often meant "danger". The creature that ignored the strange noise got eaten; its neighbor reacted and lived to reproduce.
+
+Couple this with algorithms that automatically discover which empty novelties are the most attractive to people, and you have a recipe for disaster.
+
 
 
 Glossary:
